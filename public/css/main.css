@@ -20,36 +20,44 @@
 /* GENERAL CLASSES */
 
 
-/* IMAGES, LINKS */
+/* IMAGES, LINKS, CHARTS */
 
 
 /* MEDIA QUERIES */
 
+
 /* COLORS
-  - green            #009966
-  - orange           #ff6600
-  - light blue       #0066cc
-  - dark blue        #000033
-  - gray             #dcdcdc
-  - white            #fff
-  - black            #000
+  - red            #FF837E
+  - grey           ##777777
 */
+
 
 /* CODE
    ----------------------------- */
 
+
 /* === GLOBAL SETTINGS === */
+
 
 /* === PRIMARY LAYOUT STRUCTURE === */
 
+
 /* === SECONDARY LAYOUT STRUCTURE === */
+
 
 /* === TEXT ELEMENTS === */
 
+
 /* === GENERAL STYLES === */
+
 
 /* === GENERAL CLASSES === */
 
-/* === IMAGES + LINKS === */
+
+/* === IMAGES, LINKS, CHARTS === */
+
+#chart1 {
+  padding: 15px;
+}
 
 /* === MEDIA QUERIES === */
