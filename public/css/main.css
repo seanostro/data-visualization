@@ -56,8 +56,9 @@
 
 /* === IMAGES, LINKS, CHARTS === */
 
-#chart1 {
-  padding: 15px;
+#chart1 .c3-line {
+    stroke-width: 2px;
 }
+
 
 /* === MEDIA QUERIES === */
